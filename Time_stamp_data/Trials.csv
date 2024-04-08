@@ -1,1 +1,5 @@
-,,,,
+File_name,Impeler (%),Pump (%),Time Start injection,Time end injection,Time Trial end
+S_20_P_100_T1.H00,20,100,4:54:04 PM,4:54:07 PM,4:59:20 PM
+S_50_P_75_T1.H00,50,75,4:28:08 PM,4:28:10 PM,
+S_20_P_50_T1.H00,20,50,4:04:54 PM,4:04:57 PM,4:16:18 PM
+S_20_P_75_T1.H00,20,75,4:42:29 PM,4:42:31 PM,4:48:16 PM
